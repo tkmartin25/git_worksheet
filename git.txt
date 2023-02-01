@@ -21,3 +21,5 @@ g:::::gg   gg:::::g
   gg:::::::::::::g                                 
     ggg::::::ggg                                   
        gggggg                                      
+
+Git allows me to retrieve different versions of a coding file for my convenience. It makes sure that I will not lose my work and I can always go back to different versions of the file, which allows me to edit the file without hesitations. However, git does not work automatically, so I have to be diligent in committing changes when necessary. 
