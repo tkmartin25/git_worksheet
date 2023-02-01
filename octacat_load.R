@@ -1,5 +1,5 @@
 # Code to load in Octocat (github mascot) art
 
-octocat = readLines("https://raw.githubusercontent.com/Adv-R-Programming/Adv-R-Reader/main/content/class_worksheets/02_git/octocat.txt")
+octocat = readLines("./octacat.txt")
 
-writeLines(octocat, "./octocat.txt")
+
